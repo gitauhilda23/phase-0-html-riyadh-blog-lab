@@ -14,9 +14,14 @@ body {
 }
 
 .wrapper {
+  padding-top: 24px;
   margin: 0 auto;
   width: 60%;
   padding-bottom: 40px;
+   background-color:white;
+  background-size: contain;
+  padding-left: 20px;
+  padding-right: 30px;
 }
 
 #content {
@@ -32,11 +37,13 @@ h1, h2 {
 h1 {
   font-size: 3.5em;
   margin-bottom: 0;
+  padding-left: 35px;
 }
 
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  padding-left:35px;
 }
 
 h3 {
